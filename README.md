@@ -1,1 +1,1 @@
-# math-word-problem
+# declarative-math-word-problem
